@@ -18,5 +18,5 @@
 
 ### TypeScript :
 
-- [ ] Découvrir la surcouche `TypeScript`
+- [x] Découvrir la surcouche `TypeScript`
 
