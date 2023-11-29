@@ -8,7 +8,7 @@
 - [x] Préparation de l'environnement de développement backend (installations, mises à jour)
 - [x] Comprendre la différence entre le développement synchrone et asynchrone
 - [x] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
-- [ ] Comprendre le fonctionnement de `NPM` :
+- [x] Comprendre le fonctionnement de `NPM` :
   - [x] Comprendre les différences entre les package managers et en choisir un :
     - [x] Découverte de "NPM", "Yarn" et "PNPM"
   - [x] Savoir faire les commandes de bases :
