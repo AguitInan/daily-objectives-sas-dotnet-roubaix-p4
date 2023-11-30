@@ -14,7 +14,7 @@
 
 #### API
 
-- [ ] Préparer un cheat sheet sur le concept d'`API` : 
+- [x] Préparer un cheat sheet sur le concept d'`API` : 
     - [x] Comprendre ce qu'est une `API`
     - [x] Comprendre l'Architecture `Client-Server`
     - [x] Comprendre la notion de consommation d'`API`
