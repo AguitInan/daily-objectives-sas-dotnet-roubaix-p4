@@ -34,6 +34,6 @@
     - [x] Comprendre la différence entre "chemin relatif" et "chemin absolu"
     - [x] Comprendre ce qu'est une route dans une `API`
     - [x] Comprendre ce qu'est un `ORM` et quelle différence avec un `ODM` ?
-    - [ ] Comprendre ce qu'est un `Middleware`
+    - [x] Comprendre ce qu'est un `Middleware`
 
 
